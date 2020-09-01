@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-image {
+    background-image: url(../add-style.css/bg-img.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.header-text {
+    position: absolute;
+    font-family: Teko;
+    font-size: 100px;
+    line-height: 186px;
+    color: white;
+}
+
+.main-title {
+    font-family: Teko;
+    font-size: 130px;
+    line-height: 100%;
+}
+
+.main-text {
+    width: 641px;
+    font-family: PT Sans Narrow;
+    font-size: 20px;
+    line-height: 26px;
+}
